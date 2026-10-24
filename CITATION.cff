@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Rydberg-EIT RF amplitude estimation: model fit vs learned vs variational-quantum estimators"
+authors:
+  - family-names: Degala
+    given-names: Chenchupradeep
+version: 0.1.0
+date-released: 2026-10-24
+license: MIT
+repository-code: "https://github.com/pradeepdegalaroyal/rydberg-eit-rf-estimation-vqc-vs-fit"
