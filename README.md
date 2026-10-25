@@ -80,4 +80,18 @@ tests/  docs/  results/  figures/  .github/workflows/ci.yml
 ```
 
 ## Citation
-See `CITATION.cff`. License: MIT.
+
+If you use this code, please cite it (see also `CITATION.cff`):
+
+```bibtex
+@software{chenchupradeep2026rydbergeitrf,
+  author  = {Chenchupradeep, Degala},
+  title   = {Rydberg-EIT RF amplitude estimation: model fit vs learned vs variational-quantum estimators},
+  year    = {2026},
+  version = {0.1.0},
+  url     = {https://github.com/pradeepdegalaroyal/rydberg-eit-rf-estimation-vqc-vs-fit},
+  license = {MIT}
+}
+```
+
+MIT license (`LICENSE`).
